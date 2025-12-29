@@ -43,3 +43,7 @@ X-axis: Date
 
 Y-axis: Price in USD
 
+👤 Author
+
+Nikita Jangid
+Aspiring Data Analyst | Python | SQL | Power BI
